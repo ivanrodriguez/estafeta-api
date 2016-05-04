@@ -256,3 +256,7 @@ http://localhost:8000/index.php/estafeta/cotizacion?cp_origen=01210&cp_destino=8
 
   - Versión línea de comandos
   - Buscar zonas
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/ivansabik/estafeta-api/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
